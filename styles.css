@@ -30,7 +30,7 @@ p {
 }
 
 .picture {
-    height: 18rem;
+    height: 16rem;
     overflow: hidden;
 }
 
@@ -146,8 +146,10 @@ img {
     }
     .picture {
         flex-basis: 100%;
-        align-items: stretch;  
+        /* align-items: stretch;   */
         background-color: hsl(210, 46%, 95%);
+        height: 100%;
+        overflow: hidden;
     }
     
     .picture img {
@@ -165,7 +167,7 @@ img {
     }
 
     .wrapper {
-        margin-left: -8.2rem;
+        margin-left: -3rem;
         background: white;
         padding-top: 1rem;
         border-top-right-radius: 15px;
