@@ -23,7 +23,7 @@ p {
     font-weight: 500;
 }
 .card {
-    width: 27.5rem;
+    width: 25rem;
     margin: auto;
     background: #fff;
     border-radius: 15px;
@@ -107,7 +107,7 @@ img {
     position: absolute;
     top: -1rem;
     right: 0rem;
-    width: 27.5rem;
+    width: 25rem;
     height: 70px;
     padding: 2rem;
     border-radius: 0 0 10px 10px;
