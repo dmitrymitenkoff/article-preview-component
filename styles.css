@@ -154,7 +154,6 @@ img {
     
     .picture img {
         width: auto;
-        height: 100%;
         overflow: hidden;
         border-top-left-radius: 15px;
         border-bottom-left-radius: 15px;
@@ -163,7 +162,6 @@ img {
     .main-content {
         padding: 1rem;
         padding-left: 5rem;
-        
     }
 
     .wrapper {
